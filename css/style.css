@@ -1,0 +1,6 @@
+/* opmaak van de knop */
+
+.mutebtn {
+    position: absolute;
+    padding: 0.5em;
+}
